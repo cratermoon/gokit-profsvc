@@ -1,5 +1,6 @@
-# Quip: A Simple Microservice Example for go-kit
+# A Simple Microservice Example for go-kit
 
+[A little bit about Go Kit](http://mycodesmells.com/post/little-bit-about-go-kit)
 
 ## Dependencies
 ----
@@ -12,4 +13,6 @@
 
 * github.com/go-logfmt/logfmt
 * github.com/go-stack/stack
-* go get golang.org/x/net/context/ctxhttp
+* golang.org/x/net/context/ctxhttp
+
+#### A Nice Overview Article
